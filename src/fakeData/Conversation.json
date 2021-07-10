@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "text": "hey here non blocked message",
+    "sender": "user",
+    "date": "12:00:30"
+  },
+  {
+    "id": 2,
+    "text": "here some more message",
+    "sender": "user",
+    "date": "12:10:00"
+  },
+  {
+    "id": 3,
+    "text": "here message send after block",
+    "sender": "user",
+    "date": "12:35:10"
+  },
+  {
+    "id": 4,
+    "text": "hello, buddy..",
+    "sender": "interlocutor",
+    "date": "12:36:10"
+  },
+  {
+    "id": 5,
+    "text": "tetetete",
+    "sender": "interlocutor",
+    "date": "12:36:40"
+  }
+]

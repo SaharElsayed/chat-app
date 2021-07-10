@@ -1,0 +1,16 @@
+@import  './../../scss/variables';
+
+.msg {
+  padding: 10px 20px 10px 10px;
+  border-radius: 20px;
+  width: max-content;
+  margin-bottom: 10px;
+}
+
+.user-msg {
+  background-color: rgba($color: $primaryColor, $alpha: 0.3);
+}
+
+.interlocutor-msg {
+  background-color: rgba($color: $gray, $alpha: 0.1);
+}

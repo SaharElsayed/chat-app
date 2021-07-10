@@ -28,12 +28,18 @@ body {
 .flex-start {
   align-items: flex-start;
 }
+
 .flex-center {
   align-items: center;   
 }
 
+
 .justify-center {
   justify-content: center;
+}
+
+.justify-end {
+  justify-content: flex-end;
 }
 
 .bold {

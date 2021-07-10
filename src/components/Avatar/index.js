@@ -4,7 +4,7 @@ import './styles.scss';
 
 /*
   Avatar component for general used
-  @props: {avatar, size, extraClass}
+  @props: {avatar, size: 'small' | 'large', extraClass}
 */
 const Avatar = ({avatar, size, extraClass}) => {
   return (
