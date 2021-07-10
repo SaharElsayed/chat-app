@@ -1,0 +1,11 @@
+@import './../../scss/variables';
+
+.conversation-footer {
+  min-height: 15%;
+  border-top: 1px solid #DDD;
+  padding: 0 20px;
+  background-color: $white;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
