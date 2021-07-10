@@ -8,9 +8,9 @@
 }
 
 .user-msg {
-  background-color: rgba($color: $primaryColor, $alpha: 0.3);
+  background-color: $gray;
 }
 
 .interlocutor-msg {
-  background-color: rgba($color: $gray, $alpha: 0.1);
+  background-color: rgba($color: $gray, $alpha: 0.3);
 }

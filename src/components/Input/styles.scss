@@ -1,0 +1,18 @@
+@import "../../scss/variables";
+
+.input {
+  padding: 10px 15px;
+  border: 0;
+  font-size: $largFontSize;
+  width: 100%;
+
+  &:focus {
+    outline: 0;
+  }
+
+}
+::placeholder {
+  color: $grayDark;
+  opacity: 30%;
+  font-size: $largFontSize;
+}

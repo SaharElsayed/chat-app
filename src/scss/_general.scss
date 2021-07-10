@@ -9,18 +9,6 @@ body {
   margin: 0;
 }
 
-.italic-font {
-  font-style: italic;
-}
-
-.text-white {
-  color: $white;
-}
-
-.text-gray {
-  color: $grayLight;
-}
-
 .d-flex {
   display: flex;
 }
@@ -33,21 +21,12 @@ body {
   align-items: center;   
 }
 
-
 .justify-center {
   justify-content: center;
 }
 
 .justify-end {
   justify-content: flex-end;
-}
-
-.bold {
-  font-weight: 600;
-}
-
-.text-center {
-  text-align: center;
 }
 
 /* ============= 
