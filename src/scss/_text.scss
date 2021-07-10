@@ -44,12 +44,14 @@ h4 {
   font-size: $baseFontSize;
 }
 
-h5, p {
+h5 {
   font-size: $meduimFontSize;
 }
 
 p {
+  font-size: $baseFontSize;
   color: $black;
+  margin: 0;
 }
 
 small {
