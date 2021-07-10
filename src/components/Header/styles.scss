@@ -1,0 +1,11 @@
+@import './../../scss/variables';
+
+.conversataion-header {
+  background-color: $primaryLightColor;
+  padding: 10px 20px;
+
+  .user-name {
+    font-weight: normal;
+    text-transform: capitalize;
+  }
+}

@@ -1,0 +1,27 @@
+@import './../../scss/variables';
+
+.avatar-wrapper-small {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: $grayLight;
+  padding: 20px;
+
+  .user-vatar-small {
+    width: 25px;
+    height: 25px;
+  }  
+}
+
+.avatar-wrapper-large {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: $grayLight;
+  padding: 25px;
+
+  .user-vatar-large {
+    width: 30px;
+    height: 30px;
+  }  
+}
