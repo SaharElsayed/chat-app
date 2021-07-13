@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/chat-app/static/css/main.63e73503.chunk.css",
+    "main.js": "/chat-app/static/js/main.48b8a378.chunk.js",
+    "main.js.map": "/chat-app/static/js/main.48b8a378.chunk.js.map",
+    "runtime-main.js": "/chat-app/static/js/runtime-main.b3eae414.js",
+    "runtime-main.js.map": "/chat-app/static/js/runtime-main.b3eae414.js.map",
+    "static/js/2.1766cdef.chunk.js": "/chat-app/static/js/2.1766cdef.chunk.js",
+    "static/js/2.1766cdef.chunk.js.map": "/chat-app/static/js/2.1766cdef.chunk.js.map",
+    "static/js/3.d51eeb7f.chunk.js": "/chat-app/static/js/3.d51eeb7f.chunk.js",
+    "static/js/3.d51eeb7f.chunk.js.map": "/chat-app/static/js/3.d51eeb7f.chunk.js.map",
+    "index.html": "/chat-app/index.html",
+    "static/css/main.63e73503.chunk.css.map": "/chat-app/static/css/main.63e73503.chunk.css.map",
+    "static/js/2.1766cdef.chunk.js.LICENSE.txt": "/chat-app/static/js/2.1766cdef.chunk.js.LICENSE.txt",
+    "static/media/base.scss": "/chat-app/static/media/Roboto-Regular.fa7e6e7d.ttf",
+    "static/media/user.c2f3f511.svg": "/chat-app/static/media/user.c2f3f511.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3eae414.js",
+    "static/js/2.1766cdef.chunk.js",
+    "static/css/main.63e73503.chunk.css",
+    "static/js/main.48b8a378.chunk.js"
+  ]
+}
